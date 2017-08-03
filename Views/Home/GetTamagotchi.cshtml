@@ -1,0 +1,33 @@
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+<body>
+	<h1>Welcome to Tamagotchi</h1>
+	
+<h3>@Model.GetName()</h3>
+    <form action="/tamagotchi/update/@Model.GetId()" method = "post">
+        <div class ="well well-lg" id= "food">
+		@Model.GetFood()
+		</div>
+		<button type="submit" name="Command" class="btn btn-primary btn-lg" style="padding: 5px 10px 10px 20px;" value="feed">FEED</button>
+		<br><br>
+		<h3>Put Tamagotchi to Sleep</h3>
+		<div class ="well well-lg" id= "sleep">
+		@Model.GetRest()
+		</div>
+		<button type="submit" name="Command" class="btn btn-primary btn-lg" style="padding: 5px 10px 10px 20px;" value="sleep">SLEEP</button>
+		<br><br>
+		<h3>Play with Tamagotchi</h3>
+		<div class ="well well-lg" id= "happiness">
+		@Model.GetHappiness()
+		</div>
+		<div class ="well well-lg" id= "attention">
+		@Model.GetAttention()
+		</div>
+		<button type="submit" name="Command" class="btn btn-primary btn-lg" style="padding: 5px 10px 10px 20px;" value="play">PLAY</button>
+		<br>
+		<br>
+		<button type="submit" name="Command" class="btn btn-warning btn-lg" style="padding: 5px 10px 10px 20px;" value="timepass">Time Pass</button>
+		<br><br>
+    </form>
+</body>

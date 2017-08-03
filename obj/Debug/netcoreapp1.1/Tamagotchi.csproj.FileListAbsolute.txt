@@ -6,3 +6,11 @@
 /Users/Guest/Desktop/Tamagotchi/bin/Debug/netcoreapp1.1/Tamagotchi.pdb
 /Users/Guest/Desktop/Tamagotchi/obj/Debug/netcoreapp1.1/Tamagotchi.dll
 /Users/Guest/Desktop/Tamagotchi/obj/Debug/netcoreapp1.1/Tamagotchi.pdb
+C:\Users\amdubedy\desktop\mywork\Tamagotchi\bin\Debug\netcoreapp1.1\Tamagotchi.deps.json
+C:\Users\amdubedy\desktop\mywork\Tamagotchi\bin\Debug\netcoreapp1.1\Tamagotchi.runtimeconfig.json
+C:\Users\amdubedy\desktop\mywork\Tamagotchi\bin\Debug\netcoreapp1.1\Tamagotchi.runtimeconfig.dev.json
+C:\Users\amdubedy\desktop\mywork\Tamagotchi\bin\Debug\netcoreapp1.1\Tamagotchi.dll
+C:\Users\amdubedy\desktop\mywork\Tamagotchi\bin\Debug\netcoreapp1.1\Tamagotchi.pdb
+C:\Users\amdubedy\desktop\mywork\Tamagotchi\obj\Debug\netcoreapp1.1\Tamagotchi.AssemblyInfo.cs
+C:\Users\amdubedy\desktop\mywork\Tamagotchi\obj\Debug\netcoreapp1.1\Tamagotchi.dll
+C:\Users\amdubedy\desktop\mywork\Tamagotchi\obj\Debug\netcoreapp1.1\Tamagotchi.pdb
